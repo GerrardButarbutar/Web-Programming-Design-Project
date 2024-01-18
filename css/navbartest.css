@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=PT+Sans+Narrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Great+Vibes&family=Open+Sans:wght@300&family=PT+Sans+Narrow&family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Great+Vibes&family=Open+Sans:wght@300&family=PT+Sans+Narrow&family=Raleway:wght@100&display=swap");
+
+
+.nav-bar {
+    background-color: #52718d;
+  }
+  
+  .con {
+    max-width: 13000px;
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav-menu a {
+    color: #fff;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 1000;
+    padding: 12px 15px;
+    border-radius: 60px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+  
+  .nav-menu a:hover {
+    background-color: #cdac79;
+    color: #000;
+  }
+  
+ 
+
+.ft1{
+  background-color: #52718d;
+  color:white;
+}
+
+.text-reset{
+  text-decoration: none;
+}
+
+.nav-menu .dropdown-item {
+  color: #000;
+}
+
+#go-to-top{
+  border: 2px black solid;
+  padding: 5px;
+  border-radius: 50px;
+  background-color: #efefef;
+  position: fixed;
+  z-index: 60;
+  right: 15px;
+  bottom: 15px;
+}
+
+#go-to-top:hover{
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=PT+Sans+Narrow&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=PT+Sans+Narrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Great+Vibes&family=Open+Sans:wght@300&family=PT+Sans+Narrow&family=Playfair+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arvo&family=Great+Vibes&family=Open+Sans:wght@300&family=PT+Sans+Narrow&family=Raleway:wght@100&display=swap");
+
+
+.nav-bar {
+    background-color: #52718d;
+  }
+  
+  .con {
+    max-width: 13000px;
+    padding: 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav-menu a {
+    color: #fff;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 1000;
+    padding: 12px 15px;
+    border-radius: 60px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+  
+  .nav-menu a:hover {
+    background-color: #cdac79;
+    color: #000;
+  }
+  
+ 
+
+.ft1{
+  background-color: #52718d;
+  color:white;
+}
+
+.text-reset{
+  text-decoration: none;
+}
+
+.nav-menu .dropdown-item {
+  color: #000;
+}
+body{
+   background-color: #f5f5f5;
+}
+
+.judul-text{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.textForm{
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+.textForm1{
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+
+.form-con{
+
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 450px;
+    transform: translate(160%,0.02%);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-hover{
+    text-decoration: none;
+
+}
+
+.text-hover:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+footer{
+
+}
